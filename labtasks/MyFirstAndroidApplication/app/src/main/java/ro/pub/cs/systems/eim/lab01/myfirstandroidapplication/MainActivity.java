@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-
+import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     final private static long TRANSPARENCY_EFFECT_DURATION = 5000;
